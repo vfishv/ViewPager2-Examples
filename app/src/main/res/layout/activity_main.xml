@@ -10,14 +10,12 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_views_demo"
-        style="@style/Widget.MaterialComponents.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Views Slider" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_fragment_demo"
-        style="@style/Widget.MaterialComponents.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Fragments Slider" />
